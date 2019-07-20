@@ -1,5 +1,5 @@
-## Arquivo_Pessoa
-Bibliometric Analysis on Fernando Pessoa:
+# Arquivo_Pessoa
+## Bibliometric Analysis on Fernando Pessoa:
 1) WordCloud by heterônimos
 2) Grammatical Structure 
     Verb == V, Adj ==Ad, etc
@@ -8,7 +8,7 @@ Bibliometric Analysis on Fernando Pessoa:
 5) Translation 
 
 
-# Stage 1:
+## Stage 1:
 1) Webscrapping http://arquivopessoa.net/ 
 2) Cleannig Dataset
 3) WordCloud by heterônimos
