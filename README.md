@@ -1,13 +1,13 @@
 ## Arquivo_Pessoa
-#Bibliometric Analysis on Fernando Pessoa
+Bibliometric Analysis on Fernando Pessoa
 
-Stage 1:
-    -Webscrapping http://arquivopessoa.net/ 
-    -Cleannig Dataset
-    -WordCloud by heterônimo
+# Stage 1:
+-Webscrapping http://arquivopessoa.net/ 
+-Cleannig Dataset
+-WordCloud by heterônimos
  
  
-Goals:
+# Project Goals:
 1) WordCloud by heterônimos
 2) Grammatical Structure 
     Verb == V, Adj ==Ad, etc
